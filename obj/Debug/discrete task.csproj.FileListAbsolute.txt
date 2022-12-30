@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\discrete task\discrete task\bin\Debug\discrete task.exe.config
+C:\Users\dell\source\repos\discrete task\discrete task\bin\Debug\discrete task.exe
+C:\Users\dell\source\repos\discrete task\discrete task\bin\Debug\discrete task.pdb
+C:\Users\dell\source\repos\discrete task\discrete task\obj\Debug\discrete task.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\discrete task\discrete task\obj\Debug\discrete task.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\discrete task\discrete task\obj\Debug\discrete task.exe
+C:\Users\dell\source\repos\discrete task\discrete task\obj\Debug\discrete task.pdb
